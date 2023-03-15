@@ -1,0 +1,121 @@
+{
+    "description": "A quick NFT Fantasy Cars Dataset",
+    "image": "images.google.com",
+    "video": "video.google.com",
+    "MediaFolder": "mediaFolder.google.com",
+    "name": "Fantasy Cars SNine #61",
+    "attributes": [
+        {
+            "trait_type": "Team Name",
+            "value": "Plasma Formula E Team"
+        },
+        {
+            "trait_type": "Racing Number",
+            "value": "464"
+        },
+        {
+            "trait_type": "Name",
+            "value": "Force"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "Gen 3 840kg"
+        },
+        {
+            "trait_type": "Battery Size",
+            "value": "Gen 3 350kW"
+        },
+        {
+            "trait_type": "Skill Name",
+            "value": "Rainbow Acceleration Blessing"
+        },
+        {
+            "trait_type": "Skill Category",
+            "value": "Gem Synergy"
+        },
+        {
+            "trait_type": "Description",
+            "value": "If your car is paired with a driver with a different gem synergy,  increase your car's base acceleration"
+        },
+        {
+            "trait_type": "Top Speed",
+            "value": "425"
+        },
+        {
+            "trait_type": "Acceleration",
+            "value": "520"
+        },
+        {
+            "trait_type": "Braking",
+            "value": "588"
+        },
+        {
+            "trait_type": "Responsiveness",
+            "value": "382"
+        },
+        {
+            "trait_type": "Battery Efficiency",
+            "value": "402"
+        },
+        {
+            "trait_type": "Energy Regeneration",
+            "value": "406"
+        },
+        {
+            "trait_type": "Performance Curve",
+            "value": "Neutral"
+        },
+        {
+            "trait_type": "Preferred Weather",
+            "value": "None"
+        },
+        {
+            "trait_type": "Synergy Code",
+            "value": "Topaz"
+        },
+        {
+            "trait_type": "Serial number",
+            "value": ""
+        },
+        {
+            "trait_type": "Collection Info",
+            "value": "First Edition"
+        },
+        {
+            "trait_type": "Season",
+            "value": "Season 9"
+        },
+        {
+            "trait_type": "Entity Type",
+            "value": "Car"
+        },
+        {
+            "trait_type": "Entity Subtype",
+            "value": "Fantasy"
+        },
+        {
+            "trait_type": "Level",
+            "value": "0"
+        },
+        {
+            "trait_type": "Win Rate",
+            "value": "0"
+        },
+        {
+            "trait_type": "SHRD",
+            "value": "0"
+        },
+        {
+            "trait_type": "Stars",
+            "value": "3"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "13334"
+        },
+        {
+            "trait_type": "Serial Number",
+            "value": "FantasyCarsSNine#61"
+        }
+    ]
+}
