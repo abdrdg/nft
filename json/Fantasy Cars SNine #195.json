@@ -1,0 +1,121 @@
+{
+    "description": "A quick NFT Fantasy Cars Dataset",
+    "image": "images.google.com",
+    "video": "video.google.com",
+    "MediaFolder": "mediaFolder.google.com",
+    "name": "Fantasy Cars SNine #195",
+    "attributes": [
+        {
+            "trait_type": "Team Name",
+            "value": "Electron Motorsports"
+        },
+        {
+            "trait_type": "Racing Number",
+            "value": "907"
+        },
+        {
+            "trait_type": "Name",
+            "value": "Neutron"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "Gen 3 840kg"
+        },
+        {
+            "trait_type": "Battery Size",
+            "value": "Gen 3 350kW"
+        },
+        {
+            "trait_type": "Skill Name",
+            "value": "Hot Braking Blessing"
+        },
+        {
+            "trait_type": "Skill Category",
+            "value": "Weather"
+        },
+        {
+            "trait_type": "Description",
+            "value": "Increase base braking under hot weather condition"
+        },
+        {
+            "trait_type": "Top Speed",
+            "value": "427"
+        },
+        {
+            "trait_type": "Acceleration",
+            "value": "555"
+        },
+        {
+            "trait_type": "Braking",
+            "value": "305"
+        },
+        {
+            "trait_type": "Responsiveness",
+            "value": "367"
+        },
+        {
+            "trait_type": "Battery Efficiency",
+            "value": "414"
+        },
+        {
+            "trait_type": "Energy Regeneration",
+            "value": "580"
+        },
+        {
+            "trait_type": "Performance Curve",
+            "value": "Neutral"
+        },
+        {
+            "trait_type": "Preferred Weather",
+            "value": "None"
+        },
+        {
+            "trait_type": "Synergy Code",
+            "value": "Ruby"
+        },
+        {
+            "trait_type": "Serial number",
+            "value": ""
+        },
+        {
+            "trait_type": "Collection Info",
+            "value": "First Edition"
+        },
+        {
+            "trait_type": "Season",
+            "value": "Season 9"
+        },
+        {
+            "trait_type": "Entity Type",
+            "value": "Car"
+        },
+        {
+            "trait_type": "Entity Subtype",
+            "value": "Fantasy"
+        },
+        {
+            "trait_type": "Level",
+            "value": "0"
+        },
+        {
+            "trait_type": "Win Rate",
+            "value": "0"
+        },
+        {
+            "trait_type": "SHRD",
+            "value": "0"
+        },
+        {
+            "trait_type": "Stars",
+            "value": "3"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "8628"
+        },
+        {
+            "trait_type": "Serial Number",
+            "value": "FantasyCarsSNine#195"
+        }
+    ]
+}
