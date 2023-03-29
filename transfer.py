@@ -12,9 +12,7 @@ responsiveness = []
 batteryEfficiency = []
 energyRegeneration = []
 
-
 files = natsorted(os.listdir(directory))
-
 
 for filename in files:
     file = open(directory + filename)
